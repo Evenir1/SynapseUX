@@ -60,7 +60,7 @@ Built for designers, developers, and healthcare compliance teams working with se
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/your-username/SynapseUX.git
+git clone https://github.com/Evenir1/SynapseUX.git
 cd SynapseUX
 
 # Install backend dependencies
